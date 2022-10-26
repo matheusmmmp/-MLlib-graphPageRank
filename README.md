@@ -46,7 +46,7 @@ The following tools were used in the development of the project:
 -   [MLlib](https://spark.apache.org/docs/latest/api/python/reference/pyspark.ml.html)
 -   [GraphFrames](https://github.com/graphframes/graphframes)
 -   [PageRank](https://towardsdatascience.com/pagerank-algorithm-fully-explained-dc794184b4af)
--   
+
 ---
 
 ## 📝License
